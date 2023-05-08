@@ -3,7 +3,7 @@
   <h1>sk_HLSLMaterial</h1>
   
   <p>
-A modified forked of <a href="https://github.com/Phyronnaz/HLSLMaterial">Phyronnaz/HLSLMaterial</a>
+A modified fork of <a href="https://github.com/Phyronnaz/HLSLMaterial">Phyronnaz/HLSLMaterial</a>
   </p>
   
   
