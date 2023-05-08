@@ -62,9 +62,9 @@ I'm experimenting with changing how this works at a core level, so I'm treating 
 - a quicker/smoother shader development iteration process.
 
 ## Credits
-A huge thank you and all creds due to [@Phyronnaz](https://github.com/Phyronnaz) and all the cool and fun work he's doing in Unreal.
+A huge thank you and all creds due to [@Phyronnaz](https://github.com/Phyronnaz) and all the cool and fun work he's doing in Unreal.  
 
-Copyright (c) 2021 Phyronnaz
+Copyright (c) 2021 Phyronnaz  
 This code includes modifications by Scott Kirvan. Modifications (c) Scott Kirvan  
 All rights reserved  
 
