@@ -72,7 +72,7 @@ Project Link: [https://github.com/ScottKirvan/sk_HLSLMaterial](https://github.c
 
 ---
 
-[WHITEBOARD](notes/WHITEBOARD.md)
-[CHANGELOG](notes/CHANGELOG.md)
-[TODO](notes/TODO.md)
+[WHITEBOARD](notes/WHITEBOARD.md)  
+[CHANGELOG](notes/CHANGELOG.md)  
+[TODO](notes/TODO.md)  
 
