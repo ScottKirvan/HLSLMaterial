@@ -1,7 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Phyronnaz  
-This code includes modifications by Scott Kirvan. Modifications (c) Scott Kirvan  
+Copyright (c) 2021 Phyronnaz    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
