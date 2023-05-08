@@ -25,9 +25,9 @@ ScottKirvan/sk_HLSLMaterial
   <a href="https://github.com/ScottKirvan/sk_HLSLMaterial/issues/">
     <img src="https://img.shields.io/github/issues/ScottKirvan/sk_HLSLMaterial" alt="open issues" />
   </a>
-  <a href="https://github.com/ScottKirvan/sk_HLSLMaterial/blob/master/LICENSE">
+  <!--<a href="https://github.com/ScottKirvan/sk_HLSLMaterial/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/ScottKirvan/sk_HLSLMaterial.svg" alt="license" />
-  </a>
+  </a>-->
   <a href="https://discord.gg/qwru5MY8jk">
     <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
   </a>
